@@ -43,22 +43,22 @@
       },
       "Muntazer": {
         "description": "-› ضع قناة الإشتراك الاجباري بدون @ .",
-        "value": "xl444",
+        "value": "En_d12",
         "required": true          
       },
       "OWNER": {
         "description": "-› ضع ايدي المالك .",
-        "value": "1854384004",
+        "value": "975789354",
         "required": true          
       },
       "SUPPORT_GROUP": {
         "description": "-› ضع رابط كروب الدعم .",
-        "value": "https://t.me/xl444",
+        "value": "https://t.me/En_d12",
         "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "-› ضع قناة التحديثات .",
-        "value": "https://t.me/xl444",
+        "value": "https://t.me/En_d12",
         "required": true
       },
       "STRING_SESSION2": {
@@ -83,7 +83,7 @@
       },
       "OWNER_ID": {
         "description": "-› ضع ايدي المالك يمكنك وضع اكثر من ايدي .",
-        "value": "1854384004",
+        "value": "975789354",
         "required": true
       },
       "STRING_SESSION": {
