@@ -4,7 +4,7 @@ from YukkiMusic import app
 
 @app.on_message(filters.regex("^مطور السورس$"))
 def show_developer_info(client, message):
-    developer_id = "1854384004"
+    developer_id = "975789354"
     user = app.get_users(developer_id)
 
     if user.photo:
