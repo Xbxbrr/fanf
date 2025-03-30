@@ -172,7 +172,7 @@ async def fetch_system_information(client, message):
 ⎯ ⎯ ⎯ ⎯⎯ ⎯ ⎯ 
 - وقت التشغيل : {uptime} مدة
 ⎯ ⎯ ⎯ ⎯⎯ ⎯ ⎯ 
-- مطور السورس : [Freedom Source](https://t.me/RR8R9)
+- مطور السورس : [Freedom Source](https://t.me/tpp_0)
 """
 
     keyboard = InlineKeyboardMarkup(
